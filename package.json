@@ -21,7 +21,7 @@
     "dotenv": "^8.2.0",
     "ejs": "^3.1.2",
     "express": "^4.17.1",
-    "firebase": "^7.14.2",
+    "firebase": "^7.15.0",
     "firebase-tools": "^8.2.0",
     "ios-deploy": "^1.10.0",
     "paypal-rest-sdk": "^1.8.1",
